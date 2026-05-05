@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+slack-sdk
+reportlab
+python-dotenv
+python-multipart
